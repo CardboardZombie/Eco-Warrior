@@ -1,0 +1,13 @@
+NoItems= 4
+
+iName= Batteries
+iDesc= These can be used to turn on the Gameboy
+
+iName= Energy Bulb
+iDesc= Take this to win the Game
+
+iName= Fire Extinguisher
+iDesc= Use this to put out the Fire in the Kitchen
+
+iName= Card Key
+iDesc= Opens a certain door

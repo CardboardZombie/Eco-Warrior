@@ -1,0 +1,14 @@
+Name= Happy
+Pass= Ness
+Position= Kitchen
+Accuracy= 35
+HitPoints= 24
+MaxHP= 24
+ExpPoints= 2082
+NextLevel= 9100
+Level= 6
+Score= 557
+wName=  Lightning Rod MkII
+WeaponLR= 15
+WeaponHR= 15
+

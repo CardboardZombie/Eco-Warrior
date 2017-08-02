@@ -1,0 +1,49 @@
+numRooms= 5
+
+Name= Bedroom
+Desc= A Haven from the Rest of the World.
+wName= Taser
+Items= Batteries
+Apps= A Laptop
+NumberOfExits= 2
+Exits= Hall
+Playroom
+Key= None
+
+Name= Hall
+Desc= You Can Access the Rest Of the House From Here.
+wName= Gigawatt Blades
+Items= Card Key
+Apps= A Lamp
+NumOfExits= 3
+Exits= Bedroom
+Kitchen
+Frontroom
+Key= None
+
+Name= Playroom
+Desc= You left your Xbox in here!!
+wName= Lightning Rod MkII
+Items= Batteries
+Apps= The Xbox
+NumOfExits= 1
+Exits= Bedroom
+Key= Card Key
+
+Name= Kitchen
+Desc= You put out the Fire that was consuming the Kitchen.
+wName= Tesseract
+Items= Energy Bulb
+Apps= The Oven
+NumOfExits= 1
+Exits= Hall
+Key= Fire Extinguisher
+
+Name= Frontroom
+Desc= The HDTV is draining Energy on Standby!! 
+wName= Lightning Bolt
+Items= Fire Extinguisher
+Apps= The HDTV
+NumOfExits= 1
+Exits= Hall
+Key= Card Key

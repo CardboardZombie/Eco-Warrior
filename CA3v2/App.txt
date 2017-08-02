@@ -1,0 +1,21 @@
+NumOfApps= 5
+
+Apps= A Laptop
+Desc= has been left on Sleep Mode, it's wasting Energy!! 
+State= 1
+
+App= The Xbox
+Desc= is not being used & is wasting Energy.
+State= 1
+
+Name= The Oven
+Desc= can be turned off to Save Energy!!
+state= 1
+
+name= A Lamp
+desc= is the main source of Wasted Electricity.
+state= 1
+
+name= The HDTV
+desc= is on Standby, Save Money by turning it Off!!
+state= 1 

@@ -1,0 +1,14 @@
+Name= TeeDawg
+Pass= Hero
+Position= Bedroom
+Accuracy= 15
+HitPoints= 15
+MaxHP= 15
+ExpPoints= 0
+NextLevel= 100
+Level= 1
+Score= 0
+wName= The Lightning Rod
+WeaponLR= 1
+WeaponHR= 10
+

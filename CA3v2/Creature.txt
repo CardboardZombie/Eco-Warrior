@@ -1,0 +1,84 @@
+noMonsters= 8
+
+cName= Shadow Cole
+cType= Energy Thief
+cHp= 61
+cAcc= 12
+cXp= 934
+wName= Shadow Blade
+dLOw= 15
+dHigh= 20
+
+cName= Cole
+cType= Energy Thief
+cHp= 50
+cAcc= 6
+cXp= 500
+wName= Lightning Rod MKIII
+dLOw= 10
+dHigh= 13
+
+cName= Vaasgoth the Soul Destroyer
+cType= Vampire
+cHp= 45
+cAcc= 8
+cXp= 250
+wName= Sword of the Damned
+dLOw= 7
+dHigh= 10
+
+cName= Lana the Temptress
+cType= Vampire
+cHp= 20
+cAcc= 5
+cXp= 200
+wName= Gold Teeth
+dLOw= 3
+dHigh= 10
+
+cName= NightWing
+cType= Ghost
+cHp= 35
+cAcc= 10
+cXp= 300
+wName= Claws Of Reckoning
+dLOw= 5
+dHigh= 8
+
+cName= Toby
+cType= Ghost
+cHp= 10
+cAcc= 4
+cXp= 300
+wName= Scary Stick
+dLOw= 5
+dHigh= 8
+
+cName= Mak
+cType= Energy Troll
+cHp= 10
+cAcc= 6
+cXp= 125
+wName= Spear of Doom
+dLOw= 5
+dHigh= 8
+
+cName= Bolg
+cType= Energy Troll
+cHp= 5
+cAcc= 4
+cXp= 100
+wName= Nasty Knife
+dLOw= 3
+dHigh= 7
+
+
+
+
+
+
+
+
+
+
+

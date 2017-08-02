@@ -1,0 +1,14 @@
+Name= CardboardZombie
+Pass= cbz
+Position= Bedroom
+Accuracy= 26
+HitPoints= 21
+MaxHP= 21
+ExpPoints= 2292
+NextLevel= 1400
+Level= 3
+Score= 252
+wName= The Lightning Rod
+WeaponLR= 4
+WeaponHR= 16
+

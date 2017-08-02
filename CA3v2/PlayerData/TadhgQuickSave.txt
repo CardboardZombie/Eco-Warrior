@@ -1,0 +1,14 @@
+Name= Tadhg
+Pass= Deeney
+Position= Kitchen
+Accuracy= 19
+HitPoints= 32
+MaxHP= 32
+ExpPoints= 756
+NextLevel= 1400
+Level= 3
+Score= 179
+wName=  Tesseract
+WeaponLR= 30
+WeaponHR= 50
+

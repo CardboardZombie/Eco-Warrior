@@ -1,0 +1,14 @@
+Name= Tag
+Pass= Happy
+Position= Hall
+Accuracy= 24
+HitPoints= 21
+MaxHP= 21
+ExpPoints= 0
+NextLevel= 1400
+Level= 3
+Score= 244
+wName= The Lightning Rod
+WeaponLR= 3
+WeaponHR= 15
+

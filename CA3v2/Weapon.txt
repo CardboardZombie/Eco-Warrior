@@ -1,0 +1,21 @@
+NoWeapons= 5
+
+wName= Taser
+wLow= 5
+wHigh= 10
+
+wName= Gigawatt Blades
+wLow= 10
+wHigh= 15
+
+wName= Lightning Rod MkII
+wLow= 15
+wHigh= 20
+
+wName= Tesseract
+wLow= 30
+wHigh= 50
+
+wName= Lightning Bolt
+wLow= 25
+wHigh= 50
